@@ -1,0 +1,20 @@
+{
+  "name": "underscoreTwo",
+  "description": "",
+  "version": "0.0.0",
+  "main": "underscoreTwo.js",
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jwicksnin/underscoreTest.git"
+  },
+  "scripts": {
+    "test": "mocha --no-colors --reporter spec"
+  },
+  "dependencies": {
+    "underscore": "~1.6.0"
+  }
+}
